@@ -1,1 +1,1 @@
-# LLM_chat_app
+# Basic LLM chat app
